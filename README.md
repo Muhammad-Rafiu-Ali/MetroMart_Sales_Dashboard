@@ -39,5 +39,5 @@ The dashboard was built using the following tools and technologies:
 🔮 15-Day Sales Forecast – Predictive analysis of upcoming sales trends.
 
 # 6. Screenshots / Demos
-Show what the dashboard looks like. -! [Alt text] https://github.com/Muhammad-Rafiu-Ali/MetroMart_Sales_Dashboard/blob/main/MetroMart%20Sales%20Dashboard.pdf
-Example: https://github.com/Muhammad-Rafiu-Ali/MetroMart_Sales_Dashboard/blob/main/MetroMart%20Sales%20Dashboard.pdf
+Show what the dashboard looks like. 
+Example: (https://github.com/Muhammad-Rafiu-Ali/MetroMart_Sales_Dashboard/blob/main/MetroMart%20Sales%20Dashboard.pdf)
